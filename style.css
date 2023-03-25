@@ -3,6 +3,7 @@ text-align: center;
 line-height:150%;
 color: gray;
 font-size:  40px;
+cursor: pointer;
 letter-spacing: 1px;
 white-space: pre-line;     
 height:150%; 
@@ -49,6 +50,7 @@ img {
 .details{
     font-size: 30px;
     line-height:150%;
+    cursor: pointer;
     text-indent: 0%;
     white-space: pre-line;
     font-family: Arial, Helvetica, sans-serif;
